@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color:  rgb(255, 187, 142)
+
+}
+
+img {
+    width: 30%; 
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 35%;
+    margin-right: 0%;
+   
+}
+
+.J {
+    height: 70px; 
+    width: 120px; 
+    margin-left: 3%;
+}
+
+#A {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius:  10px;
+    border: 5px solid blue; 
+}
+
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    font-family: verdana, sans-serif;
+    text-align: justify;
+}
+ul {
+    padding-left: 64px;
+    color: black;
+    font-family: 'Franklin Gothic';
+}
+
+
+table, th, td  {
+    border: 5px solid;
+   margin:auto;
+}
+
+table {
+ width: 65%;
+}
+
+.table1 {
+    width: 65%;
+    border: 5px solid;
+    margin:auto;
+   }
+
+.wrapper-content {
+    background-color: rgb(255, 187, 142);
+    text-align: center;
+    color: white;
+    
+}
+
+
+.pback {
+    border-radius: 10px ;
+    border-style: solid white;
+    background-color:  rgb(107, 65, 37);
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.Head{
+    color: rgb(187, 175, 226);
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid rgb(187, 175, 226); 
+  }
+
+.back {
+    background-image: url(images/dusun-semilir.jpeg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.head2 {
+    color: white;
+    background:rgb(107, 65, 37);
+    text-align: center;
+}
+
+.par {
+    background-color:  rgb(255, 187, 142);
+    color: white;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px solid rgb(17, 0, 255);
+    margin-left: 12px;
+}
+
+.link {
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+  
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    background-size: cover;
+    color: black;
+    font-family: monospace;
+    text-align: left;
+   
+
+ }
+.fa-facebook { 
+    color :#3b5998; 
+    margin-left: 5%;
+}
+
+.fa-youtube{
+	color:  #FF0000;
+    margin-left: 2%;  
+ }
+
+ .fa-square-instagram  {
+    color:black;
+    margin-left: 2%; 
+ }
+
+ .fa-tiktok{
+    color:black;
+    margin-left: 2%;
+ }
+
+
+.nama {
+    background-color: black;
+    color:  white;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: center;
+    border: 2px solid  rgb(107, 65, 37);
+}
