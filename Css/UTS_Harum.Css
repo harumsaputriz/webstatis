@@ -193,12 +193,13 @@ body {
 .contact .row {
   display: flex;
 }
-beauty .row a {
+
+.beauty .row a {
   color: yellow;
   font-weight: 300;
 }
 
-.about .
+.about,
 .row .about-image {
   flex: 1 1 45rem;
 }
